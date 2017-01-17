@@ -1,0 +1,7 @@
+all: isPrime task2
+
+isPrime : task0.c task0.h
+	gcc -o isPrime task0.c
+
+task2 : task2.c task2.h isPrime
+	gcc -o task2 task2.c

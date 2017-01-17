@@ -1,0 +1,2 @@
+isPrime : task0.c task0.h
+	gcc -o isPrime task0.c
