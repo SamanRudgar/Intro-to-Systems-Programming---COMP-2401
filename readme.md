@@ -1,9 +1,9 @@
 #  Introduction to Systems Programming
 ### COMP 2401
 
-__ Grade Received: __ A+
+ __Grade Received:__ A+
 
-__ Languages: __
+ __Languages:__
 * C
 
 ## Course Description
